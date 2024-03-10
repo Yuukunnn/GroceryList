@@ -1,0 +1,40 @@
+header {
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: blueviolet;
+   
+}
+
+h3 {
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+
+}
+
+.container {
+    display: flex;
+}
+
+.section{ 
+    border: 1px solid black;
+    flex: 1;
+    padding: 15px;
+    margin: 20px;
+    background-color: lightgrey;
+}
+
+.image-padding{
+    position: relative;
+    text-align: right;
+    padding: 21px;
+}
+
+h5 {
+    color: green;
+    background-color: pink;
+}
